@@ -26,6 +26,12 @@ public class AddProductServlet extends HttpServlet {
         super();
         // TODO Auto-generated constructor stub
     }
+    
+    
+    
+    public void dd() {
+    	
+    }
 
 	/**
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
