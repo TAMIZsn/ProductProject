@@ -30,7 +30,7 @@ public class AddProductServlet extends HttpServlet {
     
     
     public void dd() {
-    	System.out.print();
+    	System.out.println();
     }
 
 	/**
