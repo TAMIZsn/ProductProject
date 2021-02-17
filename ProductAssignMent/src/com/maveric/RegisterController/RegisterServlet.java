@@ -18,6 +18,8 @@ import com.maveric.RegisterService.RegisterService;
 public class RegisterServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
+	//New Content Demo
+	
     /**
      * @see HttpServlet#HttpServlet()
      */
