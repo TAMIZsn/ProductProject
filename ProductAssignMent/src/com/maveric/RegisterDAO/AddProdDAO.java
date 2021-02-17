@@ -11,6 +11,9 @@ import com.maveric.RegisterModel.ProductModel;
 import com.maveric.RegisterModel.RegisterModel;
 
 public class AddProdDAO {
+	
+	//Demo
+	
 
 	static final String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";
 	static final String DB_URL = "jdbc:mysql://127.0.0.1:3306/nithya";
