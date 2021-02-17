@@ -17,6 +17,10 @@ public class RegisterDAO {
 	static final String USER = "root";
 	static final String PASS = "";
 	
+	private void sysout() {
+		// TODO Auto-generated method stub
+
+	}
 
 	public boolean addRegisterToDB(RegisterModel fModel) {
 

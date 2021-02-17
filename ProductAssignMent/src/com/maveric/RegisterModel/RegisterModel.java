@@ -14,6 +14,9 @@ public class RegisterModel {
 	private String logPwd;
 	
 	
+	
+	
+	
 	public String getEmpId() {
 		return empId;
 	}
