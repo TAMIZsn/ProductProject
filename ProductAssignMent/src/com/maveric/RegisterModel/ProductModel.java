@@ -2,7 +2,7 @@ package com.maveric.RegisterModel;
 
 public class ProductModel {
 
-	
+	private String prodId;
 	private String productId;
 	private String productName;
 	
